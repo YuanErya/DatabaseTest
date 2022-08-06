@@ -1,6 +1,8 @@
 
 CREATE DATABASE IF NOT EXISTS THEFOURTHWEEK;
 
+DROP TABLE IF EXISTS employees ;
+
 CREATE TABLE IF NOT EXISTS employees(
                                         emp_no INT UNSIGNED,
                                         birth_date DATE,
