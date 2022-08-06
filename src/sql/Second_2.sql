@@ -1,3 +1,5 @@
+
+
 drop table if exists  film ;
 drop table if exists  category  ;
 drop table if exists  film_category  ;
